@@ -132,7 +132,7 @@ header{
 .banner{
 	width: 100%;
 	height: 650px;
-	background: url(../images/laptop.jpg);
+	background: url(images/laptop.jpg);
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-position: center center;
